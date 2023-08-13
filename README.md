@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **khanbahadur.magsi@gmail.com**
 
-- ⚡ Fun fact **I have created 3 startups, but failed.**
+- ⚡ Fun fact:  **I have created 3 startups, but failed.**
 
 <p align="left">
 </p>
