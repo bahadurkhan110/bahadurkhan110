@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bahadur Khan</h1>
 <h3 align="center">A Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bahadurkhan110&label=Profile%20views&color=0e75b6&style=flat" alt="bahadurkhan110" /> </p>
+
 - 🔭 I’m currently working on **Custom Data Science libraries for Beginners**
 
 - 🌱 I’m currently learning **Tensorflow**
