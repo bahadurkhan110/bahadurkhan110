@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bahadur Khan</h1>
+
+![Profile Image](https://th.bing.com/th/id/R.2c41f9b5411045e59ef08bbe5045773e?rik=SQLRU35VeM8Qow&pid=ImgRaw&r=0)
+
 <h3 align="center">A Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
 
 
