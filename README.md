@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Bahadur Khan</h1>
 
-<img src="https://th.bing.com/th/id/R.2c41f9b5411045e59ef08bbe5045773e?rik=SQLRU35VeM8Qow&pid=ImgRaw&r=0" alt="Profile Image" width="1100" height="400" align = 'centre'>
-
 <h3 align="center">A Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
 
+- 🔍 Passionate Data Scientist with a keen interest in leveraging cutting-edge machine learning techniques to extract valuable insights from complex datasets. Proficient in developing and deploying predictive models to drive data-driven decision-making.
+
+- 🎓 Advanced education in Computer Science, with a solid foundation in mathematics, statistics, and computer science. Adept at translating business challenges into actionable analytical solutions.
+
+- 🤖 Experienced in designing and implementing machine learning algorithms, including regression, classification, clustering, and deep learning. Skilled in feature engineering, model evaluation, and hyperparameter tuning to achieve optimal performance.
+
+- 💡 Proven track record of successfully solving real-world problems using data-driven approaches. Previous projects include creating Custom python packages for Data science beginners.
+
+- 📊 Strong proficiency in data manipulation, preprocessing, and visualization using tools like Python, Pandas, NumPy, Matplotlib, and Seaborn. Familiarity with SQL for data extraction and manipulation.
+
+- 🔧 Hands-on experience with popular machine learning libraries such as scikit-learn, TensorFlow, and PyTorch. Comfortable with both supervised and unsupervised learning techniques.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahadurkhan110&label=Profile%20views&color=0e75b6&style=flat" alt="bahadurkhan110" /> </p>
 
