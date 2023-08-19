@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bahadur Khan</h1>
 
-<h3 align="center">A Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
+<h3 align="center">A Data Scientist | ML/AI Enthusiast | Python Developer</h3>
 
 
 🔍 Passionate Data Scientist with a keen interest in leveraging cutting-edge machine learning techniques to extract valuable insights from complex datasets. Proficient in developing and deploying predictive models to drive data-driven decision-making. 🎓 Advanced education in Computer Science, with a solid foundation in mathematics, statistics, and computer science. Adept at translating business challenges into actionable analytical solutions.
